@@ -1,0 +1,455 @@
+
+.navs{
+    padding: 0px !important;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center
+}
+.navbar-brand img{
+    margin-left: 70px;
+}
+.navbar-toggler{
+    border: none;
+    margin: 50px;
+    
+}
+.navbar-toggler-icon{
+    height: 20px !important;
+    width: 20px !important;
+    color: white !important;
+    
+}
+.nav-item a{
+    color: white;
+    margin-left:40px;;
+}
+
+.nav-item a:hover{
+    color: #F05233
+    
+}
+.image-1{
+    background-image: url("https://ivy.global/wp-content/uploads/2022/02/hero-banner-slide-1.jpg");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+.image-2{
+    background-image: url("https://ivy.global/wp-content/uploads/2022/02/hero-banner-slide-3.jpg");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+.image-3{
+    background-image: url("https://ivy.global/wp-content/uploads/2023/02/hero-img2-new-scaled-1.jpg");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+.carousel-item p{
+    font-size: 41px;
+    font-weight: 400;
+    line-height: 56px;
+    
+    margin: 140px 20px 50px 170px;
+}
+.image-2 > p{
+    width: 40%;
+}
+.image-1 > p{
+    width: 40%;
+}
+.image-3 > p{
+    width: 40%;
+}
+.carousel-item1 p{
+    font-size: 41px;
+    font-weight: 400;
+    line-height: 56px;
+    margin: 140px 20px 50px 170px;
+}
+.btn{
+    margin-left: 175px;
+    margin-bottom: 100px;
+}
+
+.btn button{
+    width: 130px;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    height: 40px;
+    
+}
+.btn button:hover{
+    color: white;
+    background-color: #F05233;
+
+}
+.global{
+    background-image: url("https://ivy.global/wp-content/uploads/2022/02/Stocks-good-results.png");
+    background-repeat: no-repeat;
+    
+}
+
+.btn-globe button{
+    width: 130px;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid white;
+    height: 40px;
+    border-color: black;
+}
+.btn-globe button:hover{
+    color: white;
+    background-color: #F05233;
+
+}
+.globe-1{
+    z-index: 2;
+}
+.globe-1 img{
+    margin-top: 135px;
+    margin-left: 70px;
+    z-index: 1;
+}
+
+.globe-2{
+    position: relative;
+    top: 85px;
+    right: 55px;
+}
+.text-area{
+    margin-left: 135px;
+    margin-top: 160px;
+}
+.text-area h2{
+    color: #F05233;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 35px;
+
+}
+.text-area h1{
+    color: #F05233;
+    font-weight: 400;
+
+}
+.text-area h1 span{
+    color: rgb(192, 52, 52);
+}
+.text-area p {
+    color: gray;
+}
+.industry{
+    background-color: #DBDBDB;
+   
+}
+
+.industry-text-area{
+    position: relative;
+    top: 40px;
+    left: 65px;
+    background-color: white;
+}
+.industry-text-area h2{
+    color: #F05233;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-left: 104px;
+    padding-top: 110px;
+
+}
+.industry-text-area h1{
+    color: #F05233;
+    font-weight: 400;
+    margin-left: 104px;
+    margin-top: -15px;
+
+}
+.industry-text-area h1 span{
+    color: rgb(192, 52, 52);
+}
+.indus-main p{
+    padding: 0px 145px 10px 104px;
+    color: grey;
+    font-size: 19px;
+}
+.btn-industry-1{
+    margin-left: 105px;
+}
+
+.btn-industry-1 button{
+    width: 130px;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid white;
+    height: 40px;
+    border-color: black;
+}
+.btn-industry-1 button:hover{
+    color: white;
+    background-color: #F05233;
+
+}
+.industry-2{
+    z-index: 2;
+}
+.industry-2 img{
+    margin-top: 120px;
+    margin-left: -45px;
+    width: 500px;
+    
+}
+.industry-grid{
+    margin: 40px 135px 120px 100px !important;
+}
+.indus-grid p{
+    color: grey;
+    font-size: 19px;
+
+}
+.btn-industry-2{
+    margin-bottom: 65px;
+}
+.btn-industry-2 button{
+    width: 130px;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid white;
+    height: 40px;
+    border-color: black;
+}
+.btn-industry-2 button:hover{
+    color: white;
+    background-color: #F05233;
+}
+
+.explore{
+    background-color: #2B425C;
+    background-image: url("https://ivy.global/wp-content/uploads/2022/01/pattern-triangles.png");
+    background-position: 90% 0px;
+    background-repeat: no-repeat;
+    color: white;
+}
+.explore-text{
+    padding: 60px;
+}
+.explore-btn button{
+    width: 100px;
+    border-radius: 25px;
+    background-color: #F05233;
+    height: 50px;
+    border-color: white;
+    color: white;
+    margin-top: 20px;
+}
+
+.explore-btn button:hover{
+    color: #F05233;
+    background: transparent;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color:#F05233;
+    font-weight: 400; 
+}
+.heading span{
+    color: rgb(192, 52, 52);
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-right: 40px;
+    gap: 20px;
+}
+.card{
+    width: 440px ;
+    border: none !important;
+}
+.card-1{
+    margin-top: 40px;
+}
+.card-2{
+    margin-top: 100px;
+}
+.card-3{
+    margin-top: 140px;
+}
+.card-title{
+    background-color: rgb(29, 29, 90);
+    width: 163px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 12px;
+    margin-left: -15px;
+    margin-top: -15px;
+    color: white;
+}
+.card-text{
+    color: gray;
+    font-size: 16px;
+
+}
+.life{
+    background-image: url("https://ivy.global/wp-content/uploads/2022/01/life-at-ivy.jpg")
+}
+.left-life{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.button{
+    margin-top: 20px;
+    width: 180px;
+    border-radius: 30px;
+    background-color: white;
+    border: 1px solid white;
+    height: 58px;
+    border-color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.life-btn button:hover{
+    color: white;
+    background-color: #F05233;
+}
+.left-life{
+    color: white;
+
+}
+.nill{
+    height: 100px;
+    width: 100%;
+    background-color: #DBDBDB;
+}
+.footer{
+    /* margin:30px; */
+    
+    background-color: #F05233;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   margin-right: 20px;
+}
+.logo-2{
+    margin-left: -100px;
+}
+.cookies a:hover{
+    text-decoration: none;
+
+}
+
+
+
+@media only screen and (max-width: 550px) {
+    
+    .carousel-item p{
+        font-size: 25px;
+        
+    }
+    .image-1{
+        background-image: none;
+        background-color: #063970;
+    }
+    .image-2{
+        background-image: none;
+        background-color: #063970;
+    }
+    .image-3{
+        background-image: none;
+        background-color: #063970;
+    }
+    .global{
+        display: flex !important;
+        flex-direction: row;
+        width: inherit;
+    }
+    .globe-1 img{
+        background-color: white;
+        width: 400px;
+        padding: 35px;
+    }
+    .text-area{
+        margin-left: 120px;
+        margin-top: 5px;
+    }
+    .industry{
+        display: none !important;
+        
+    }
+    .industry-2 img{
+        width: 300px;
+
+    }
+    .cards{
+        display: flex;
+        flex-direction: column;
+        /* margin-left: 40px;
+        margin-right: 40px; */
+        /* gap: 20px; */
+    }
+    .card-2{
+        margin-top: 10px;
+    }
+    .card-3{
+        margin-top: 10px;
+    }
+    .explore{
+        margin-top: 110px;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .logo-2{
+        margin-left: -50px;
+    }
+    .copy-right{
+        margin-top: 38px;
+    }
+    .copy-right p{
+        margin-left: 19px;
+        font-size: 14px;
+    }
+    .cookies{
+        margin-top: -15px;
+        margin-left: 19px;
+        font-size: 13px;
+    }
+    .CONTACT{
+        margin-left: 16px;
+        margin-top: 40px;   
+    }
+    .CONTACT a{
+        font-size: 13px;
+    }
+    .connect{
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+    
+}
